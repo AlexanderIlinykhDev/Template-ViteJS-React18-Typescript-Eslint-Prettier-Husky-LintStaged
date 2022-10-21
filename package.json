@@ -1,10 +1,7 @@
 {
   "name": "template-vitejs-react18-typescript-eslint-prettier-husky",
-  "private": true,
+  "private": false,
   "version": "0.0.2",
-  "homepage": "https://github.com/javuscriptus/Template-ViteJS-React18-Typescript-Eslint-Prettier-Husky/blob/main/README.md",
-  "url": "https://github.com/javuscriptus/Template-ViteJS-React18-Typescript-Eslint-Prettier-Husky/issues",
-  "author": "JavuScriptus <javus.scriptus911@gmail.com> (https://github.com/javuscriptus)",
   "licenses": [
     {
       "type": "MIT",
